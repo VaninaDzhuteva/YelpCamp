@@ -1,0 +1,4 @@
+MONGO DB Repair:
+
+cd ~
+./mongod --repair
